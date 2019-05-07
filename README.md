@@ -1,4 +1,4 @@
-# BigDataTechnologies
+# Big Data Technologies
 An attempt was made to understand Hadoop/Spark capabilities
 Usage of various Big Data tools (e.g., Pig for ETL, Hive and/or Spark SQL for queries) done.
 
