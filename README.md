@@ -14,3 +14,17 @@ Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforc
 Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are
 shown at the block level only and specific locations are not identified. The dataset contains more
 than 65,000 records/rows of data.
+
+
+<img width="916" alt="image" src="https://user-images.githubusercontent.com/26671243/57281915-f7aa5600-7079-11e9-9b1f-eb4ad0546c22.png">
+
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/26671243/57281941-0264eb00-707a-11e9-9a77-4a95899263ff.png">
+
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/26671243/57281958-0a248f80-707a-11e9-9922-3ce13deb4d27.png">
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/26671243/57281996-232d4080-707a-11e9-9cb4-064f45343ebc.png">
+
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/26671243/57281979-1a3c6f00-707a-11e9-81f2-e10687288eef.png">
+
+
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/26671243/57281970-14468e00-707a-11e9-9174-0bf5ecf54ea9.png">
